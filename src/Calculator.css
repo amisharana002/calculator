@@ -1,0 +1,64 @@
+.Calculator-Base {
+  position: absolute;
+  width: 259.81px;
+  height: 400.11px;
+  margin-left: 40%;
+  margin-top: 170px;
+  border-radius: 12px;
+  background-color: black;
+  box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px rgba(174, 174, 192, 0.4);
+}
+
+.Cal-display {
+  padding-top: 40px;
+}
+.field1 {
+  text-align: right;
+  color: rgb(74, 74, 124);
+  font-size: 22px;
+  padding: 10px 10px 10px 10px;
+}
+
+.field2 {
+  text-align: right;
+  color: rgb(252, 252, 253);
+  font-size: 28px;
+  padding: 0 10px 10px 0;
+}
+
+.design {
+  margin-left: 32%;
+  width: 90px;
+  height: 9px;
+  border: 3px solid rgba(216, 212, 212, 0.3);
+  border-radius: 20px;
+  margin-bottom: 7px;
+}
+
+.Cal-buttons {
+  padding-top: 10px;
+  background: #f0f0f3;
+  border-radius: 12px;
+}
+
+.btns {
+  border: none;
+  width: 50px;
+  margin: 5px 5px 5px 9px;
+  color: rgb(115, 115, 196);
+  font-size: 22px;
+  padding: 10px 10px 10px 10px;
+  box-shadow: -5px -5px 25px #ffffff, 8px 8px 22px rgba(174, 174, 192, 0.4);
+  border-radius: 12px;
+}
+
+.zero {
+  width: 115px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.equal-btn {
+  background-color: rgb(51, 202, 195);
+  color: white;
+}
