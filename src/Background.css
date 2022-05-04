@@ -32,12 +32,12 @@
 }
 
 .block1 {
-  margin-left: 600px;
-  margin-top: 88px;
+  margin-left: 550px;
+  margin-top: 68px;
 }
 
 .block2 {
-  margin-left: 900px;
+  margin-left: 850px;
   margin-top: 200px;
 }
 
@@ -55,8 +55,7 @@
   display: inline-block;
   width: 124px;
   height: 124px;
-  margin-top: 50px;
-  margin-left: 1000px;
+  margin-left: 900px;
   border-radius: 50%;
 }
 
@@ -65,6 +64,6 @@
   width: 294px;
   height: 294px;
   margin-left: 100px;
-  margin-top: 50px;
+
   border-radius: 50%;
 }
